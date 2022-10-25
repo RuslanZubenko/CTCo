@@ -1,0 +1,7 @@
+<suite name="Joe" parallel="tests" thread-count="2">
+    <test name="all tests">
+        <packages>
+            <package name="com.testCareersPage.tests"/>
+        </packages>
+    </test>
+</suite>
